@@ -1,4 +1,5 @@
----
+---https://github.com/urbandroid-team/dont-kill-my-app.git
+
 manufacturer:
     - general
 ---
